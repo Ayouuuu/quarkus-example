@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>extend-config</module>
+        <module>smallrye-mutiny</module>
     </modules>
     <properties>
         <compiler-plugin.version>3.10.1</compiler-plugin.version>
